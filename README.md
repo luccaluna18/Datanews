@@ -1,7 +1,8 @@
 Fluxograma:
-![Anotação 2024-08-19 223906](https://github.com/user-attachments/assets/ccd9b7ad-7db5-4e22-8974-7b0e8246bf4f)
+![Anotação 2024-08-19 223906](https://github.com/user-attachments/assets/f4b18dbc-fa46-4439-a061-bdee3b4abbfc)
+
 
 
 Exemplo de Email recebido por um coordenador:
-![Datanews 1](https://github.com/user-attachments/assets/39471cfc-86e0-417c-bea2-56d9fe6dc5dc)
-![Datanews 2](https://github.com/user-attachments/assets/cef4b641-b38b-4e82-8041-780d2986c828)
+![Datanews 1](https://github.com/user-attachments/assets/0da70118-f45d-4791-b620-2588095a0c18)
+![Datanews 2](https://github.com/user-attachments/assets/3cf5c50f-5e0e-4e23-a9ee-de411672fb80)
